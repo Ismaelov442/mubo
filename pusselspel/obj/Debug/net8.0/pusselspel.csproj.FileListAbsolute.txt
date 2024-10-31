@@ -1,0 +1,28 @@
+C:\pusselspel\bin\Debug\net8.0\pusselspel.exe
+C:\pusselspel\bin\Debug\net8.0\pusselspel.deps.json
+C:\pusselspel\bin\Debug\net8.0\pusselspel.runtimeconfig.json
+C:\pusselspel\bin\Debug\net8.0\pusselspel.dll
+C:\pusselspel\bin\Debug\net8.0\pusselspel.pdb
+C:\pusselspel\obj\Debug\net8.0\pusselspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\pusselspel\obj\Debug\net8.0\pusselspel.AssemblyInfoInputs.cache
+C:\pusselspel\obj\Debug\net8.0\pusselspel.AssemblyInfo.cs
+C:\pusselspel\obj\Debug\net8.0\pusselspel.csproj.CoreCompileInputs.cache
+C:\pusselspel\obj\Debug\net8.0\pusselspel.dll
+C:\pusselspel\obj\Debug\net8.0\refint\pusselspel.dll
+C:\pusselspel\obj\Debug\net8.0\pusselspel.pdb
+C:\pusselspel\obj\Debug\net8.0\pusselspel.genruntimeconfig.cache
+C:\pusselspel\obj\Debug\net8.0\ref\pusselspel.dll
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\bin\Debug\net8.0\pusselspel.exe
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\bin\Debug\net8.0\pusselspel.deps.json
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\bin\Debug\net8.0\pusselspel.runtimeconfig.json
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\bin\Debug\net8.0\pusselspel.dll
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\bin\Debug\net8.0\pusselspel.pdb
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.AssemblyInfoInputs.cache
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.AssemblyInfo.cs
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.dll
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\refint\pusselspel.dll
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.pdb
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\pusselspel.genruntimeconfig.cache
+C:\Users\ismae\OneDrive\Dokument\c# spara\pusselspel\obj\Debug\net8.0\ref\pusselspel.dll
